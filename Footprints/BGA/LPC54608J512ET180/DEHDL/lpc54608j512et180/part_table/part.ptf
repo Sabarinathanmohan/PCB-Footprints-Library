@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LPC54608J512ET180'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "NXP", "LPC54608J512ET180" (!) = "", "BGA180C80P14X14_1200X1200X120", "BGA", "N/A", "https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/LPC54608J512ET180?qs=fAHHVMwC%252BbiwaGA98nObDg%3D%3D", "", "", "ARM Microcontrollers - MCU LPC54608J512ET180/TFBGA180///STANDARD MARKING * TR", "https://www.nxp.com.cn/docs/en/data-sheet/LPC546XX.pdf", "1.2 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=NXP
+PartNumber=LPC54608J512ET180
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=180
+Version=1.1
+Released=2024-11-19 10:22:07
+Downloaded=2026-02-15 06:44:35
+3D=Y
